@@ -1,4 +1,4 @@
-Please Open homepage.html file in your browser.
+Please Open homepage.html file in your browser, to access the project.
 
 Sample Screenshots:
 
