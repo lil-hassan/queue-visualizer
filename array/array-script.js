@@ -16,6 +16,14 @@ document.getElementById("remove-front").addEventListener("click", remove_front);
 document.getElementById("remove-back").addEventListener("click", remove_back);
 
 
+input.addEventListener("keydown", (event)=>{
+  if(event.key === "Enter") {
+    event.preventDefault();
+    add_back();
+  }
+});
+
+
 sizeInput.addEventListener("input", () => {
   const size = Number(sizeInput.value);
 
