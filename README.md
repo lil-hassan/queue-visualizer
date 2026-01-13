@@ -1,3 +1,5 @@
+This DSA visualizer contains Array, Arraylist, Heaps, LinkedList, Stack & Queue.
+ 
 Please Open homepage.html file in your browser, to access the project.
 
 Sample Screenshots:
